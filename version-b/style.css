@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+.btn-b {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    border-radius: 50%;
+    background-color: #fbbc05;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
